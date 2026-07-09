@@ -1,5 +1,4 @@
 import heapq
-
 class Solution:
     def findKthLargest(self, nums, k):
         heap = []
