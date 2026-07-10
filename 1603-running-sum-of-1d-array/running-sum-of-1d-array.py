@@ -6,6 +6,7 @@ class Solution(object):
             total=total+nums[i]
             sum.append(total)
         return sum
+        
 
             
 
